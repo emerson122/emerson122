@@ -2,7 +2,7 @@
 
 
 [![Linkedin: EmersonRamos](https://img.shields.io/badge/-emerson122-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-ramos-9bb83b22a)](https://www.linkedin.com/in/emerson-ramos-9bb83b22a)
-[![mail emersonexquielrv@gmail.com](https://img.shields.io/badge/Email- emersonexquielrv@gmail.com-blue?style=flat-square&logo=gmail)](mailto:emersonexquielrv@gmail.com)
+[![mail emersonexquielrv@gmail.com](https://img.shields.io/badge/Email-emersonexquielrv@gmail.com-blue?style=flat-square&logo=gmail)](mailto:emersonexquielrv@gmail.com)
 [![GitHub emerson122](https://img.shields.io/github/followers/emeson122?label=follow&style=social)](https://github.com/emerson122)
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"></p>
