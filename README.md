@@ -21,6 +21,7 @@ const EmersonRamos = {
 }
 ```
 <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emerson122" alt="emerson122" /></a> </p>
 
 
 
