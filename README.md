@@ -2,8 +2,8 @@
 
 
 
-[![mail emersonexquielrv@gmail.com](https://img.shields.io/badge/Email-emersonexquielrv@gmail.com-blue?style=flat-square&logo=gmail)](mailto:emersonexquielrv@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emerson122&label=Profile%20views&color=0e75b6&style=flat" alt="emerson122" /> </p>
+[![mail emersonexquielrv@gmail.com](https://img.shields.io/badge/Email-emersonexquielrv@gmail.com-blue?style=flat-square&logo=gmail)](mailto:emersonexquielrv@gmail.com)<p align="left"> <img src="https://komarev.com/ghpvc/?username=emerson122&label=Profile%20views&color=0e75b6&style=flat" alt="emerson122" /> </p>
+
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"></p>
 
