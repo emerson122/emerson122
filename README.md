@@ -26,15 +26,9 @@ const EmersonRamos = {
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> My Skills
 ###
-
+<hr>
   <br/>
-<p align="center"> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelmarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Miguel Marte's    github stats" />  
-</p>
-
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmarte&layout=compact&theme=buefy&hide_border=true" />
-</p>
+  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 :star: From [@emerson122](https://github.com/emerson122)
 
