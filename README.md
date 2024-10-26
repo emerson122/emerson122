@@ -26,7 +26,8 @@ const EmersonRamos = {
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emerson122&show_icons=true&locale=en&layout=compact" alt="emerson122" /></p>
 <br>
-</br>
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emerson122&" alt="emerson122" /></p>
 <br>
 
