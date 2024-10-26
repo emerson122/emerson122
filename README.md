@@ -26,7 +26,7 @@ const EmersonRamos = {
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emerson122&show_icons=true&locale=en&layout=compact" alt="emerson122" /></p>
 
-
+<br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> My Skills
 ###
